@@ -1,4 +1,7 @@
-Aplikacja testowa 
+powrót: mgr-main : https://github.com/krzysiekdz/mgr-main
+
+Aplikacja testowa - prototyp.
+(W celu analizy pobrac folder : screens.)
 
 Badane frameworki: angular1, angular2, react oraz czysty javascript
 
