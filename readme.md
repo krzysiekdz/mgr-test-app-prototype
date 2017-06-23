@@ -41,8 +41,8 @@ Aktualizacja co trzeci element (evr3) przy istniejacym 1tys elementow
 ![](http://i.imgur.com/pGAJNMR.png)
 
 9.swap_2f_1k <br>
-Swap - zamiania miejscami, dwoch sąsiadujacych na początku (2f) elementów przy istniej¹cym 1tys elementów (1k); widac ze elementy 1 i 2 zamienily sie miejscami
-swapII, swapIII - analogicznie w srodku i na koncu
+Swap - zamiania miejscami, dwoch sąsiadujacych na początku (2f) elementów przy istniejącym 1tys elementów (1k); widac ze elementy 1 i 2 zamienily sie miejscami
+swap II, swap III - analogicznie w srodku i na koncu
 ![](http://i.imgur.com/NwGr9u8.png)
 
 10.fetch_1k <br>
@@ -58,11 +58,11 @@ Edycja pierwszej komórki w pierwszym wierszu danych, przy 1tys danych (1k); wpi
 ![](http://i.imgur.com/wx8H2kC.png)
 
 13.filter_1k <br>
-Filtrowanie danych - wyswietlanie tylko tych, które maja wlasciwosc "id" podzieln¹ przez 10 (reszta jest ukrywana)
+Filtrowanie danych - wyswietlanie tylko tych, które maja wlasciwosc "id" podzielną przez 10 (reszta jest ukrywana)
 ![](http://i.imgur.com/BZ5pjx3.png)
 
 14.search_i_1k <br>
-Search - wyszukiwanie, znaku 'i' (i) przy 1tys (1k) istnejacyh elementow; wyszukane wyrazy sa podswietlane na ¿ó³to; wyszukiwanie badane jest gdy dane s¹ identyczne w kazdej aplikacji - a wiec pobrane metod¹ fetch (opisana w punkcie 10.); przygotowane dane maj¹ wlasciwosc, ze pewne znaki pojawiaja sie okreslona liczbê razy: z - 0,   b,y - 3   i,o-13   a,e - 26
+Search - wyszukiwanie, znaku 'i' (i) przy 1tys (1k) istnejacyh elementow; wyszukane wyrazy sa podswietlane na żółto; wyszukiwanie badane jest gdy dane są identyczne w kazdej aplikacji - a wiec pobrane metodą fetch (opisana w punkcie 10.); przygotowane dane maj¹ą wlasciwosc, ze pewne znaki pojawiaja sie okreslona liczbę razy: z - 0,   b,y - 3   i,o-13   a,e - 26
 ![](http://i.imgur.com/7HOYeyj.png)
 
 15.remove_1f_1k <br>
