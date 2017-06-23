@@ -12,8 +12,8 @@ Funkcjonalnosci i wyglad kazdej aplikacji są identyczne. Różnią się natomia
 1.Widok po załadowaniu (na przykladzie aplikacji angularjs);
 ![](http://i.imgur.com/uqpmzpA.png)
 
-2.init_1k.png
-Utworzenie 1tys elementow (losowych) - wpisanie żądanej liczby elementów do utworzenia i kliknięcie przycisku "init".
+2.init_1k
+\nUtworzenie 1tys elementow (losowych) - wpisanie żądanej liczby elementów do utworzenia i kliknięcie przycisku "init".
 ![](http://i.imgur.com/kYL11FO.png)
 
 3.add_1kf.png 
