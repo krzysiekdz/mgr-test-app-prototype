@@ -62,11 +62,11 @@ Filtrowanie danych - wyswietlanie tylko tych, które maja wlasciwosc "id" podzie
 ![](http://i.imgur.com/BZ5pjx3.png)
 
 14.search_i_1k <br>
-Search - wyszukiwanie, znaku 'i' (i) przy 1tys (1k) istnejacyh elementow; wyszukane wyrazy sa podswietlane na żółto; wyszukiwanie badane jest gdy dane są identyczne w kazdej aplikacji - a wiec pobrane metodą fetch (opisana w punkcie 10.); przygotowane dane maj¹ą wlasciwosc, ze pewne znaki pojawiaja sie okreslona liczbę razy: z - 0,   b,y - 3   i,o-13   a,e - 26
+Search - wyszukiwanie, znaku 'i' (i) przy 1tys (1k) istnejacyh elementow; wyszukane wyrazy sa podswietlane na żółto; wyszukiwanie badane jest gdy dane są identyczne w kazdej aplikacji - a wiec pobrane metodą fetch (opisana w punkcie 10.); przygotowane dane mają wlasciwosc, ze pewne znaki pojawiaja sie okreslona liczbę razy: z - 0,   b,y - 3   i,o-13   a,e - 26
 ![](http://i.imgur.com/7HOYeyj.png)
 
 15.remove_1f_1k <br>
-Remove - usuniêcie, pierwszego elementu (1f) przy istniej¹cych 1tys elementow (1k); pierwszy element zosta³ usuniety (widac element o id=2 jako pierwszy)
+Remove - usunięcie, pierwszego elementu (1f) przy istniejącym 1tys elementow (1k); pierwszy element został usuniety (widac element o id=2 jako pierwszy)
 ![](http://i.imgur.com/dmqOOL2.png)
 
 16.select_1f_1k <br> 
