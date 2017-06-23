@@ -29,51 +29,50 @@ Dodanie (add) 1 elementu na pozycję ostatnią (1L - 1 "last") przy istniejącym
 ![](http://i.imgur.com/6R0q6mp.png)
 
 6.replace_3f_1k <br>
-Replace - utworzenie nowych obiektów i zastąpienie nimi starych; 3f - 3 elementy na początku ("first") przy 1tys istniej¹cych; zamiast obiektów o id=1,2,3 pojawily sie nowe o id=1001,1002,1003; analogicznie replaceII oznacza "wymianę" obiektów na srodku, a replaceIII na koñcu
+Replace - utworzenie nowych obiektów i zastąpienie nimi starych; 3f - 3 elementy na początku ("first") przy 1tys istniejących; zamiast obiektów o id=1,2,3 pojawily sie nowe o id=1001,1002,1003; analogicznie replaceII oznacza "wymianę" obiektów na srodku, a replaceIII na koñcu
 ![](http://i.imgur.com/fSvVLsl.png)
 
 7.update_3f_1k <br>
-update - aktualizacja istniej¹ych obiektów nowymi danymi (czyli nie usuwamy obiektów i tworzymy nowe, ale zmieniamy tylko wartosci wlasciwosci tych obiektów); 3f - pierwsze 3, przy istniejacym 1tys elementów (1k); wizaulnie operacja daje to samo co operacja 6.
-updateII i updateIII analogicznie w srodku i na koncu
+Update - aktualizacja istniejąych obiektów nowymi danymi (czyli nie usuwamy obiektów i tworzymy nowe, ale zmieniamy tylko wartosci wlasciwosci tych obiektów); 3f - pierwsze 3, przy istniejacym 1tys elementów (1k); wizaulnie operacja daje to samo co operacja 6.; updateII i updateIII analogicznie w srodku i na koncu
 ![](http://i.imgur.com/8BGAuIl.png)
 
 8.update_evr3_1k <br>
-aktualizacja co trzeci element (evr3) przy istniejacym 1tys elementow
+Aktualizacja co trzeci element (evr3) przy istniejacym 1tys elementow
 ![](http://i.imgur.com/pGAJNMR.png)
 
 9.swap_2f_1k <br>
-swap - zamiania miejscami, dwoch s¹siadujacych na pocz¹tku (2f) elementów przy istniej¹cym 1tys elementów (1k); widac ze elementy 1 i 2 zamienily sie miejscami
+Swap - zamiania miejscami, dwoch sąsiadujacych na początku (2f) elementów przy istniej¹cym 1tys elementów (1k); widac ze elementy 1 i 2 zamienily sie miejscami
 swapII, swapIII - analogicznie w srodku i na koncu
 ![](http://i.imgur.com/NwGr9u8.png)
 
 10.fetch_1k <br>
-fetch - pobranie, 1tys (1k) danych z serwera; dane te s¹ sta³e (zosta³y raz wygenerowane i zapisane w pliku)
+Fetch - pobranie, 1tys (1k) danych z serwera; dane te s¹ sta³e (zosta³y raz wygenerowane i zapisane w pliku)
 ![](http://i.imgur.com/xJchvgo.png)
 
 11.input_1k <br>
-wpisywanie danych do pola typu input, przy 1tys danych (1k)
+Wpisywanie danych do pola typu input, przy 1tys danych (1k)
 ![](http://i.imgur.com/GgXPoSc.png)
 
 12.edit_1k <br>
-edycja pierwszej komórki w pierwszym wierszu danych, przy 1tys danych (1k); wpisanie w pole tekstowe ci¹gu "aaa" - ten sam pojawil sie w komórce w pierwszym wierszu
+Edycja pierwszej komórki w pierwszym wierszu danych, przy 1tys danych (1k); wpisanie w pole tekstowe ci¹gu "aaa" - ten sam pojawil sie w komórce w pierwszym wierszu
 ![](http://i.imgur.com/wx8H2kC.png)
 
 13.filter_1k <br>
-filtrowanie danych - wyswietlanie tylko tych, które maja wlasciwosc "id" podzieln¹ przez 10 (reszta jest ukrywana)
+Filtrowanie danych - wyswietlanie tylko tych, które maja wlasciwosc "id" podzieln¹ przez 10 (reszta jest ukrywana)
 ![](http://i.imgur.com/BZ5pjx3.png)
 
 14.search_i_1k <br>
-search - wyszukiwanie, znaku 'i' (i) przy 1tys (1k) istnejacyh elementow; wyszukane wyrazy sa podswietlane na ¿ó³to; wyszukiwanie badane jest gdy dane s¹ identyczne w kazdej aplikacji - a wiec pobrane metod¹ fetch (opisana w punkcie 10.); przygotowane dane maj¹ wlasciwosc, ze pewne znaki pojawiaja sie okreslona liczbê razy: z - 0,   b,y - 3   i,o-13   a,e - 26
+Search - wyszukiwanie, znaku 'i' (i) przy 1tys (1k) istnejacyh elementow; wyszukane wyrazy sa podswietlane na ¿ó³to; wyszukiwanie badane jest gdy dane s¹ identyczne w kazdej aplikacji - a wiec pobrane metod¹ fetch (opisana w punkcie 10.); przygotowane dane maj¹ wlasciwosc, ze pewne znaki pojawiaja sie okreslona liczbê razy: z - 0,   b,y - 3   i,o-13   a,e - 26
 ![](http://i.imgur.com/7HOYeyj.png)
 
 15.remove_1f_1k <br>
-remove - usuniêcie, pierwszego elementu (1f) przy istniej¹cych 1tys elementow (1k); pierwszy element zosta³ usuniety (widac element o id=2 jako pierwszy)
+Remove - usuniêcie, pierwszego elementu (1f) przy istniej¹cych 1tys elementow (1k); pierwszy element zosta³ usuniety (widac element o id=2 jako pierwszy)
 ![](http://i.imgur.com/dmqOOL2.png)
 
 16.select_1f_1k <br> 
-select - wybranie/klikniecie na pierwszy element (1f) przy istniejacym 1tys (1k) elementow
+Select - wybranie/klikniecie na pierwszy element (1f) przy istniejacym 1tys (1k) elementow
 ![](http://i.imgur.com/5Zwvuoi.png)
 
 17.clear_1k <br>
-clear- usuniecie/wyczyszczenie 1tys (1k) elementow 
+Clear- usuniecie/wyczyszczenie 1tys (1k) elementow 
 ![](http://i.imgur.com/1n6jG01.png)
