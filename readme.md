@@ -4,10 +4,10 @@ Aplikacja testowa - prototyp.
 [powrót do strony głównej](https://github.com/krzysiekdz/mgr-main)
 
 
-Funkcjonalnosci i wyglad kazdej aplikacji są identyczne. Różnią się natomiast wewnętrzną strukturą kodu, a wiec sposobem w jaki realizuja te same zadania. Mierzony jest czas wykonywania poszczegolnych operacji. Interfejs aplikacji jest prosty, bez dodatkowych efektów wizaulnych (bogatsze ostylowanie wydłuża czas renderingu), aby uwydatnić wplyw działania danego frameworka (czyli czas działania kodu javascript) na wydajność mierzonych operacji. W skład interfejsu wchodzi boczny panel menu (po lewej) gdzie mamy dostęp do wszystkich funkcjonalnosci. Po prawej w główej czesci znajduje się tabela w której będą wyświetlane dane. Pojedyńczy obiekt danych to zwykly obiekt javascript posiadajacy wlasciwosci: id, imie, nazwisko, praca, zarobki. Działania są wykonywane na du¿ym zbiorze danych (1-2 tys elementów w modelu danych).
+Funkcjonalnosci i wyglad kazdej aplikacji są identyczne. Różnią się natomiast wewnętrzną strukturą kodu, a wiec sposobem w jaki realizuja te same zadania. Mierzony jest czas wykonywania poszczegolnych operacji. Interfejs aplikacji jest prosty, bez dodatkowych efektów wizaulnych (bogatsze ostylowanie wydłuża czas renderingu), aby uwydatnić wplyw działania danego frameworka (czyli czas działania kodu javascript) na wydajność mierzonych operacji. W skład interfejsu wchodzi boczny panel menu (po lewej) gdzie mamy dostęp do wszystkich funkcjonalnosci. Po prawej w główej czesci znajduje się tabela w której będą wyświetlane dane. Pojedyńczy obiekt danych to zwykly obiekt javascript posiadajacy wlasciwosci: {id, imie, nazwisko, praca, zarobki}. Działania są wykonywane na dużym zbiorze danych (1-2 tys elementów w modelu danych).
 
 
-Funckjonalnoœci aplikacji - metody testowe (patrz folder 'screens'):
+### Funkcjonalności aplikacji
 
 1.initial-view.png 
 aplikacja - widok po za³adowaniu (na przykladzie aplikacji angularjs);
