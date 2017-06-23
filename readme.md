@@ -13,19 +13,23 @@ Funkcjonalnosci i wyglad kazdej aplikacji są identyczne. Różnią się natomia
 ![](http://i.imgur.com/uqpmzpA.png)
 
 2.init_1k
-\nUtworzenie 1tys elementow (losowych) - wpisanie żądanej liczby elementów do utworzenia i kliknięcie przycisku "init".
+
+Utworzenie 1tys elementow (losowych) - wpisanie żądanej liczby elementów do utworzenia i kliknięcie przycisku "init".
 ![](http://i.imgur.com/kYL11FO.png)
 
-3.add_1kf.png 
+3.add_1kf
+
 Uworzenie, czyli de facto dodanie (add) 1tys elementów (1k) - to samo co wyzej, ale w alternatywny sposob (także losowych).
 ![](http://i.imgur.com/5UhIecu.png)
 
-4.add_1m_1k.png 
+4.add_1m_1k
+
 Dodanie (add) jednego elementu w œrodek (1m - 1 "middle") przy istniej¹cym ju¿ 1 tysiacu elementów (1k) (utworzonym poprzez metodê opisan¹ w  2. lub 3.); pomiedzy elementy 500 a 501 pojawi³ sie element o id=1001
 ![](http://i.imgur.com/vFsmeNK.png)
 
-5.add_1L_1k.png 
-dodanie (add) 1 elementu na pozycjê ostatni¹ (1L - 1 "last") przy istniej¹cym ju¿ 1tys elementow (1k); za elementem o id 1000 pojawil sie element id=1001
+5.add_1L_1k
+
+Dodanie (add) 1 elementu na pozycjê ostatni¹ (1L - 1 "last") przy istniej¹cym ju¿ 1tys elementow (1k); za elementem o id 1000 pojawil sie element id=1001
 ![](http://i.imgur.com/6R0q6mp.png)
 
 6.replace_3f_1k.png
