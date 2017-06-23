@@ -29,11 +29,11 @@ Dodanie (add) 1 elementu na pozycję ostatnią (1L - 1 "last") przy istniejącym
 ![](http://i.imgur.com/6R0q6mp.png)
 
 6.replace_3f_1k <br>
-Replace - utworzenie nowych obiektów i zastąpienie nimi starych; 3f - 3 elementy na początku ("first") przy 1tys istniejących; zamiast obiektów o id=1,2,3 pojawily sie nowe o id=1001,1002,1003; analogicznie replaceII oznacza "wymianę" obiektów na srodku, a replaceIII na koñcu
+Replace - utworzenie nowych obiektów i zastąpienie nimi starych; 3f - 3 elementy na początku ("first") przy 1tys istniejących; zamiast obiektów o id=1,2,3 pojawily sie nowe o id=1001,1002,1003; analogicznie replace II oznacza "wymianę" obiektów na srodku, a replace III na końcu
 ![](http://i.imgur.com/fSvVLsl.png)
 
 7.update_3f_1k <br>
-Update - aktualizacja istniejąych obiektów nowymi danymi (czyli nie usuwamy obiektów i tworzymy nowe, ale zmieniamy tylko wartosci wlasciwosci tych obiektów); 3f - pierwsze 3, przy istniejacym 1tys elementów (1k); wizaulnie operacja daje to samo co operacja 6.; updateII i updateIII analogicznie w srodku i na koncu
+Update - aktualizacja istniejąych obiektów nowymi danymi (czyli nie usuwamy obiektów i tworzymy nowe, ale zmieniamy tylko wartosci wlasciwosci tych obiektów); 3f - pierwsze 3, przy istniejacym 1tys elementów (1k); wizaulnie operacja daje to samo co operacja 6.; update II i update III analogicznie w srodku i na koncu
 ![](http://i.imgur.com/8BGAuIl.png)
 
 8.update_evr3_1k <br>
@@ -46,7 +46,7 @@ swapII, swapIII - analogicznie w srodku i na koncu
 ![](http://i.imgur.com/NwGr9u8.png)
 
 10.fetch_1k <br>
-Fetch - pobranie, 1tys (1k) danych z serwera; dane te s¹ sta³e (zosta³y raz wygenerowane i zapisane w pliku)
+Fetch - pobranie, 1tys (1k) danych z serwera; dane te są stałe (zostały raz wygenerowane i zapisane w pliku)
 ![](http://i.imgur.com/xJchvgo.png)
 
 11.input_1k <br>
@@ -54,7 +54,7 @@ Wpisywanie danych do pola typu input, przy 1tys danych (1k)
 ![](http://i.imgur.com/GgXPoSc.png)
 
 12.edit_1k <br>
-Edycja pierwszej komórki w pierwszym wierszu danych, przy 1tys danych (1k); wpisanie w pole tekstowe ci¹gu "aaa" - ten sam pojawil sie w komórce w pierwszym wierszu
+Edycja pierwszej komórki w pierwszym wierszu danych, przy 1tys danych (1k); wpisanie w pole tekstowe ciągu "aaa" - ten sam pojawil sie w komórce w pierwszym wierszu
 ![](http://i.imgur.com/wx8H2kC.png)
 
 13.filter_1k <br>
