@@ -9,8 +9,8 @@ Funkcjonalnosci i wyglad kazdej aplikacji są identyczne. Różnią się natomia
 
 ### Funkcjonalności aplikacji
 
-1.initial-view.png 
-aplikacja - widok po za³adowaniu (na przykladzie aplikacji angularjs);
+Widok po załadowaniu (na przykladzie aplikacji angularjs);
+![](http://i.imgur.com/uqpmzpA.png)
 
 2.init1k.png
 utworzenie 1tys elementow (losowych) - wpisanie ¿¹danej liczby eleentów do utworzenia i klikniêcie przycisku "init"
